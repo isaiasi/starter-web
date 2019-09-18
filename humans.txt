@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Isaías> -- <QA> -- <twitter>
 
 # THANKS
 
