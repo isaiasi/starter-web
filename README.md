@@ -17,3 +17,6 @@ Test test
 
 ##Newest section
 Test
+
+##Copyright
+Copyright Notice
