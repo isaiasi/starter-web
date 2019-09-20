@@ -4,6 +4,7 @@
 # TEAM
 
     <Isaías> -- <QA> -- <twitter>
+    <Frias> -- <QA> -- <IG>
 
 # THANKS
 
