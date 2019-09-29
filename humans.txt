@@ -4,11 +4,11 @@
 # TEAM
 
     <Isaías> -- <QA> -- <twitter>
-    <Frias> -- <QA> -- <IG>
+    <Inés> -- <QA> -- <IG>
 
 # THANKS
 
-    <name>
+    <Thanks to my friends>
 
 # TECHNOLOGY COLOPHON
 
